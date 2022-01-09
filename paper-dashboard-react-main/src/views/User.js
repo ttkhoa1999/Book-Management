@@ -196,7 +196,7 @@ function User() {
                         <label>About Me</label>
                         <Input
                           type="textarea"
-                          defaultValue="Làm việc chăm chỉ để thăm ngàn!"
+                          defaultValue="Làm việc chăm chỉ!"
                         />
                       </FormGroup>
                     </Col>
